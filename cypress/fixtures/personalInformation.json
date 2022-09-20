@@ -1,0 +1,13 @@
+{
+    "firstName": "Jack",
+    "lastName" : "Smith",
+    "password" : "1234567",
+    "address" : "House 27",
+    "city" :"Texas",
+    "postalcode":"45588",
+    "phone" : "7845681336",
+    "state" : "Alabama",
+    "alias" : "demo",
+    "highestSort" : "Price: Highest first",
+    "blackColor" : "Black"
+}
